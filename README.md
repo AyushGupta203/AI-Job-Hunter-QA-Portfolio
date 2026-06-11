@@ -4,6 +4,8 @@
 
 This repository contains manual testing artifacts created for the AI Job Hunter web application.
 
+**Repository Link:** [AI-Job-Hunter-QA-Portfolio](https://github.com/AyushGupta203/AI-Job-Hunter-QA-Portfolio)
+
 ## Tools Used
 
 - Jira
