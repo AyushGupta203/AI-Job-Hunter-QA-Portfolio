@@ -1,0 +1,19 @@
+# Role-Based Access Control Requirements
+
+## User Story
+
+As a system user,
+I want access only to authorized features,
+so that platform security is maintained.
+
+## Business Requirement
+
+The system shall restrict functionality based on assigned user roles.
+
+## Acceptance Criteria
+
+* Job Seekers access seeker features only.
+* Recruiters access recruiter features only.
+* Unauthorized pages are restricted.
+* Direct URL access is blocked.
+* Appropriate error messages are displayed.

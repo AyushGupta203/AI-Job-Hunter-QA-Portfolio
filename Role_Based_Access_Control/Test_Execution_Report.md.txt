@@ -1,0 +1,13 @@
+# Role-Based Access Control Test Execution Report
+
+| Test Case ID | Result |
+| ------------ | ------ |
+| TC_RBAC_01   | Pass   |
+| TC_RBAC_02   | Pass   |
+| TC_RBAC_03   | Pass   |
+| TC_RBAC_04   | Pass   |
+| TC_RBAC_05   | Pass   |
+
+Execution Date: June 2026
+
+Executed By: Ayush Gupta
